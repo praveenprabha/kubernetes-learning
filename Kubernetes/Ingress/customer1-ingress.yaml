@@ -5,7 +5,7 @@ metadata:
   namespace: customer-1
 spec:
   rules:
-  - host: cust1.example.com
+  - host: cust1.travelandfoodworld.com
     http:
       paths:
       - backend:
